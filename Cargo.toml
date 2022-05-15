@@ -1,8 +1,10 @@
 [package]
 name = "wasm-reed-solomon-erasure"
-version = "0.1.0"
+version = "0.2.2"
 authors = ["reud <reiji.kobayashi.9n@stu.hosei.ac.jp>"]
 edition = "2018"
+license = "MIT"
+repository = "https://github.com/reud/wasm-reed-solomon-erasure"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
